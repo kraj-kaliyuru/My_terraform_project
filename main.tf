@@ -8,7 +8,7 @@ resource "aws_instance" "example" {
     instance_type = var.instance_type_value
 
       tags = {
-    Name = "HelloWorld"
+    Name = "HelloWorldrajkaliyu"
   }
 }
 
